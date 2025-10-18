@@ -60,6 +60,7 @@ Buka file .env dan ubah bagian berikut sesuai dengan pengaturan database lokal A
     DB_DATABASE=library_management_system
     DB_USERNAME=nama_pengguna_mysql_anda
     DB_PASSWORD=kata_sandi_mysql_anda
+
 4. Generate application key:
    ```bash
    php artisan key:generate
