@@ -52,13 +52,14 @@ class AuthController extends Controller
         $user = User::create([
             'name' => $request->name,
             'email' => $request->email,
+            'phone' => $request->phone,
             'password' => Hash::make($request->password),
             'role' => 'student',
         ]);
 
         Auth::login($user);
 
-        return redirect('/student/dashboard')->with('success', 'Registration successful!');
+        return redirect('/')->with('success', 'Registration successful!');
     }
 
     public function logout(Request $request)

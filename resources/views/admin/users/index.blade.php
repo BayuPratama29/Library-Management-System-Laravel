@@ -17,6 +17,7 @@
                         <th>ID</th>
                         <th>Nama</th>
                         <th>Email</th>
+                        <th>Phone Number</th>
                         <th>Role</th>
                         <th>Dibuat Pada</th>
                         <th>Aksi</th>
@@ -28,6 +29,7 @@
                             <td>{{ $user->id }}</td>
                             <td>{{ $user->name }}</td>
                             <td>{{ $user->email }}</td>
+                            <td>{{ $user->phone }}</td>
                             <td><span class="badge bg-info">{{ ucfirst($user->role) }}</span></td>
                             <td>{{ $user->created_at->format('d M Y H:i') }}</td>
                             <td>
