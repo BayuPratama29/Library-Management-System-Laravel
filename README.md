@@ -72,5 +72,14 @@ Buka file .env dan ubah bagian berikut sesuai dengan pengaturan database lokal A
 7. Jalankan server pengembangan Laravel:
    ```bash
    php artisan serve
-8. Buka browser dan akses aplikasi di (http://localhost:8000.)
-  
+8. Buka browser dan akses aplikasi di (http://localhost:8000)
+
+## Akun Default
+Setelah menjalankan seeder, akun default berikut akan tersedia:
+
+### Admin:
+Email: admin@example.com
+Password: password
+### Mahasiswa:
+Email: student@example.com
+Password: password
