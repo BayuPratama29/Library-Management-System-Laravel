@@ -46,3 +46,10 @@ Sebelum Anda memulai, pastikan Anda telah menginstal:
    ```bash
    git clone https://github.com/BayuPratama29/Library-Management-System-Laravel.git
    cd Library-Management-System-Laravel
+2. Instal dependensi PHP menggunakan Composer:
+   ```bash
+   composer install
+3. Salin file .env.example menjadi .env dan sesuaikan konfigurasi database Anda:
+   ```bash
+   cp .env.example .env
+   
