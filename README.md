@@ -52,7 +52,7 @@ Sebelum Anda memulai, pastikan Anda telah menginstal:
 3. Salin file .env.example menjadi .env dan sesuaikan konfigurasi database Anda:
    ```bash
    cp .env.example .env
-Buka file .env dan ubah bagian berikut sesuai dengan pengaturan database lokal Anda:
+    Buka file .env dan ubah bagian berikut sesuai dengan pengaturan database lokal Anda:
    ```bash 
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
