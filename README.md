@@ -78,8 +78,10 @@ Buka file .env dan ubah bagian berikut sesuai dengan pengaturan database lokal A
 Setelah menjalankan seeder, akun default berikut akan tersedia:
 
 ### Admin:
-Email: admin@example.com
-Password: password
+Email: admin@gmail.com
+
+Password: admin123
 ### Mahasiswa:
-Email: student@example.com
-Password: password
+Email: student@gmail.com
+
+Password: student123
