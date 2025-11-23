@@ -1,4 +1,4 @@
-[![Logo Codecademy](https://raw.githubusercontent.com/Codecademy/docs/main/media/codey.jpg)](https://www.codecademy.com)
+[![Logo Laravel](https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png)](https://laravel.com/)
 
 # Library Management System
 
