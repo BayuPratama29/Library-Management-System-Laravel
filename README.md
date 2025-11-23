@@ -93,6 +93,26 @@ Email: student@gmail.com
 Password: student123
 
 # Preview Web
+## Halaman Welcome
+<img width="1920" height="826" alt="lms" src="https://github.com/user-attachments/assets/b1ada6dd-55f9-4576-91c5-334720129465" />
+## Halaman Login
+<img width="1920" height="827" alt="lms1" src="https://github.com/user-attachments/assets/2df08bf2-463a-4a0f-8aee-65b8e0868979" />
+## Halaman Register
+<img width="1920" height="827" alt="lms2" src="https://github.com/user-attachments/assets/5460c204-d789-41bc-9f2b-22272d3ee4e7" />
 ## Dashboard Admin
-<img width="1920" height="1008" alt="Screenshot 2025-11-07 211010" src="https://github.com/user-attachments/assets/1ad22867-b7ef-475d-b702-5aa94947335a" />
+<img width="1920" height="827" alt="lms3" src="https://github.com/user-attachments/assets/fcac9fef-b274-4266-9d31-a133b1969e08" />
+## Daftar Buku
+<img width="1920" height="827" alt="lms4" src="https://github.com/user-attachments/assets/80456789-14b6-47d7-98fe-eb370f39ac0c" />
+## Kategori Buku
+<img width="1920" height="909" alt="lms5" src="https://github.com/user-attachments/assets/97a614e5-a687-4702-80f7-251d893d4c22" />
+## Daftar Penulis
+<img width="1920" height="1547" alt="lms6" src="https://github.com/user-attachments/assets/2b7d6be5-de9d-4161-a6c8-4ec474f4cf61" />
+## Daftar Penerbit
+<img width="1920" height="827" alt="lms7" src="https://github.com/user-attachments/assets/ee84175d-fd4a-46c1-a172-2440e3240ddd" />
+## Daftar Mahasiswa
+<img width="1920" height="827" alt="lms8" src="https://github.com/user-attachments/assets/76da43ae-e670-4487-ab42-9a1b2868b826" />
+## Daftar Peminjaman
+<img width="1920" height="827" alt="lms9" src="https://github.com/user-attachments/assets/ed643d23-c500-47bc-991e-7d9351944f5e" />
+
+
 
