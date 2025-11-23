@@ -1,5 +1,4 @@
-[!(<img width="3000" height="2000" alt="Laravel-Logo wine" src="https://github.com/user-attachments/assets/67d78946-7547-4c59-9da8-adce25aa5fec" />
-)(https://laravel.com/)]
+[![Logo Codecademy](https://raw.githubusercontent.com/Codecademy/docs/main/media/codey.jpg)](https://www.codecademy.com)
 
 # Library Management System
 
