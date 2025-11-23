@@ -1,3 +1,6 @@
+[![Laravel](<img width="3000" height="2000" alt="Laravel-Logo wine" src="https://github.com/user-attachments/assets/67d78946-7547-4c59-9da8-adce25aa5fec" />
+)](https://laravel.com/)
+
 # Library Management System
 
 Sistem manajemen perpustakaan berbasis web yang dibangun menggunakan framework Laravel. Sistem ini dirancang untuk memudahkan pengelolaan buku, peminjaman, dan pengguna di perpustakaan.
@@ -131,5 +134,16 @@ Password: student123
 
 <img width="1920" height="827" alt="lms9" src="https://github.com/user-attachments/assets/ed643d23-c500-47bc-991e-7d9351944f5e" />
 
+## Dashboard Mahasiswa
+
+<img width="1920" height="827" alt="lms10" src="https://github.com/user-attachments/assets/bafd9436-812d-4759-8cab-ef7e73b49e3c" />
+
+## Daftar Buku di Perpustakaan
+
+<img width="1920" height="827" alt="lms11" src="https://github.com/user-attachments/assets/5015ce40-8d60-4235-b9d7-e5053355219e" />
+
+## Daftar Peminjaman Mahasiswa
+
+<img width="1920" height="827" alt="lms12" src="https://github.com/user-attachments/assets/367aba6d-0a3b-415a-aa03-88d6f6a2b77b" />
 
 
