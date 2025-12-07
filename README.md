@@ -4,6 +4,11 @@
 
 Sistem manajemen perpustakaan berbasis web yang dibangun menggunakan framework Laravel. Sistem ini dirancang untuk memudahkan pengelolaan buku, peminjaman, dan pengguna di perpustakaan.
 
+## Dibuat oleh:
+- Muhammad Arifin (2310631170098)
+- Muhammad Bayu Pratama (2310631170032)
+- Pangundian Siagian (2310631170038)
+
 ## Fitur Utama
 
 ### Hak Akses Admin
